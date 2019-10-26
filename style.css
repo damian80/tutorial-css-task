@@ -1,0 +1,30 @@
+html {
+    font-family: arial;
+}
+
+
+
+.red {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 50vh;
+    background-color: rgb(255, 0, 0);
+    font-size: 2em;
+
+
+}
+
+.blue {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 20vh;
+    background-color: #0000FF;
+    margin: 100px;
+    font-size: 1.5em;
+}
+
+p {
+    color: white;
+}
